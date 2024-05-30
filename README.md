@@ -15,6 +15,8 @@ This project is a visualization of the CTIS Curriculum using Markmap, an interac
 
 ## Overview
 
+[Example](example.gif)
+
 This project utilizes Markmap to create an interactive visualization of the CTIS Curriculum. The curriculum is presented in a mindmap format, showing the courses and their prerequisites for each semester from the first year to the fourth year.
 
 ## Features
