@@ -3,7 +3,7 @@
 This project is a visualization of the CTIS Curriculum using Markmap, an interactive mindmap generator. The curriculum is displayed in a hierarchical format, making it easy to understand the progression of courses throughout the academic years.
 
 ## Table of Contents
-## Demo Implementation -> 
+## Demo Implementation -> [CTIS Curriculum](https://onurcangnc.github.io/ctis_mindmap/)
 
 - [Overview](#overview)
 - [Features](#features)
